@@ -34,6 +34,6 @@ https://github.com/sahilyedake/Student-leave-management-system-
 
 ## 📫 Connect with Me
 
-📧 Email: sahilyedake18@gmail.com.    
-💼 LinkedIn: https://www.linkedin.com/in/sahil-yedake/
-🌐 GitHub: https://github.com/sahilyedake
+- 📧 Email: sahilyedake18@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sahil-yedake/
+- 🌐 GitHub: https://github.com/sahilyedake
